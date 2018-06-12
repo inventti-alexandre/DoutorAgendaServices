@@ -1,0 +1,11 @@
+D:\Projetos\TesteMazza\DoutorAgendaServices\DoutorAgendaServices\bin\Debug\netcoreapp2.0\DoutorAgendaServices.deps.json
+D:\Projetos\TesteMazza\DoutorAgendaServices\DoutorAgendaServices\bin\Debug\netcoreapp2.0\DoutorAgendaServices.runtimeconfig.json
+D:\Projetos\TesteMazza\DoutorAgendaServices\DoutorAgendaServices\bin\Debug\netcoreapp2.0\DoutorAgendaServices.runtimeconfig.dev.json
+D:\Projetos\TesteMazza\DoutorAgendaServices\DoutorAgendaServices\bin\Debug\netcoreapp2.0\DoutorAgendaServices.dll
+D:\Projetos\TesteMazza\DoutorAgendaServices\DoutorAgendaServices\bin\Debug\netcoreapp2.0\DoutorAgendaServices.pdb
+D:\Projetos\TesteMazza\DoutorAgendaServices\DoutorAgendaServices\obj\Debug\netcoreapp2.0\DoutorAgendaServices.csprojAssemblyReference.cache
+D:\Projetos\TesteMazza\DoutorAgendaServices\DoutorAgendaServices\obj\Debug\netcoreapp2.0\DoutorAgendaServices.csproj.CoreCompileInputs.cache
+D:\Projetos\TesteMazza\DoutorAgendaServices\DoutorAgendaServices\obj\Debug\netcoreapp2.0\DoutorAgendaServices.AssemblyInfoInputs.cache
+D:\Projetos\TesteMazza\DoutorAgendaServices\DoutorAgendaServices\obj\Debug\netcoreapp2.0\DoutorAgendaServices.AssemblyInfo.cs
+D:\Projetos\TesteMazza\DoutorAgendaServices\DoutorAgendaServices\obj\Debug\netcoreapp2.0\DoutorAgendaServices.dll
+D:\Projetos\TesteMazza\DoutorAgendaServices\DoutorAgendaServices\obj\Debug\netcoreapp2.0\DoutorAgendaServices.pdb
